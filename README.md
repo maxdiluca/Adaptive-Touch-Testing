@@ -1,3 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/55b0d48e-28c2-43c8-8421-e863c06455e9/deploy-status)](https://app.netlify.com/sites/adaptivetouchtesting/deploys)
+
+
+
+README:
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)

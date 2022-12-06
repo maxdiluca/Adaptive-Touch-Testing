@@ -14,7 +14,6 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
- email: m.diluca@bham.ac.uk
   address:
     street: Edgbaston
     city: Birmingham

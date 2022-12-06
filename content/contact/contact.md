@@ -24,7 +24,7 @@ content:
   coordinates:
     latitude: '52.44972114103527'
     longitude: '-1.932553875570192'
-  directions: Enter Hills Building and take the stairs to the Symonlab  on Floor 2
+  directions: Enter Hills Building and take the stairs to the Symonlab on Floor 2
   office_hours:
     - 'Monday to Friday 10:00 to 18:00'
   appointment_url: 'https://calendly.com'

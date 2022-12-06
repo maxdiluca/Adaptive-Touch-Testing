@@ -12,6 +12,6 @@ We are organising a Touch Assessment Workshop on Wed 15 March at the University 
 * painful touch
 * virtual touch
 * aging touch
-* patient experience of neuropathy.
+* patient experience of neuropathy
 
 There will also be Practical demos, Poster sessions, and Lab tours.

@@ -1,11 +1,11 @@
 ---
-title: 'The cutaneous contribution to adaptive precision grip'
+title: 'Johannsen L, Wing AM, Hatzitaki V Effects of maintaining touch contact on predictive and reactive balance. J Neurophysiology, 2007; 97: 2686 - 2695.'
 authors:
   - Witney, A.
   - Wing A.M.
   - Thonnard J.L.
   - Smith A.
-date: '2004-09-01T00:00:00Z'
+date: '2007-09-01T00:00:00Z'
 doi: '10.1016/j.tins.2004.08.006'
 
 # Schedule page publish date (NOT publication's date).

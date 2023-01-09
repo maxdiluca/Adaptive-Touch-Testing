@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title:Touch
+    - title: Touch
       content: 'Touch is important for discriminating surfaces and objects, aesthetic appreciation and guiding action. Touch is affected by skin condition, normal aging, and neurological diseases of the elderly. This project is developing a working prototype and exploring the potential market for an Adaptive tactile test system (ATTS). It is a collaboration between the University of Birmingham (UOB) Sensory Motor Neuroscience (SyMoN) Laboratory and commercial partner Obi Robotics.'
       align: center
       background:

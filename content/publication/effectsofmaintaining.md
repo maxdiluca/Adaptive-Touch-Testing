@@ -1,8 +1,8 @@
 ---
 title: 'Effects of maintaining touch contact on predictive and reactive balance'
 authors:
-  - Johannsen L
-  - Wing A.M.
+  - Johannsen, L.
+  - Wing, A.M.
 date: '2007-09-01T00:00:00Z'
 doi: '10.1152/jn.00038.2007'
 

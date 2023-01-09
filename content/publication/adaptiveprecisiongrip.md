@@ -1,7 +1,7 @@
 ---
 title: 'The cutaneous contribution to adaptive precision grip'
 authors:
-  - Witney, A.
+  - Witney A.
   - Wing A.M.
   - Thonnard J.L.
   - Smith A.

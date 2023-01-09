@@ -26,19 +26,6 @@ design:
     text_color_light: true
   spacing:
     padding: ['20px', '0', '20px', '0']
-    
-    
-design:
-  columns: '1'
-  background:
-    image: manipulation2.jpg
-    image_darken: 0
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ['20px', '0', '20px', '0']
 advanced:
   css_class: fullscreen
 ---

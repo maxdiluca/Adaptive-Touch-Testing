@@ -9,15 +9,15 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 4000
 
 content:
   slides:
     - title: Touch
       content: 'Touch is important for discriminating surfaces and objects, aesthetic appreciation and guiding action. Touch is affected by skin condition, normal aging, and neurological diseases of the elderly. This project is developing a working prototype and exploring the potential market for an Adaptive tactile test system (ATTS). It is a collaboration between the University of Birmingham (UOB) Sensory Motor Neuroscience (SyMoN) Laboratory and commercial partner Obi Robotics.'
-      align: center
+      align: left
       background:
         position: right
         color: '#666'
@@ -33,7 +33,7 @@ content:
         media: manipulation2.jpg
     - title: Automated Adaptive Touch Testing (A2T2)
       content: 'Clinical testing of touch typically involves manual application of test stimuli. The Sensory Motor Neuroscience (SyMoN) Lab and Obi Robotics are developing an automated approach based on continuously varying stimulus intensity or frequency for assessing touch discrimination ability. Discrimination difficulty is adjusted adaptively up or down to yield 75% correct performance.'
-      align: right
+      align: left
       background:
         position: center
         color: '#333'

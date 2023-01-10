@@ -1,10 +1,10 @@
 ---
 title: 'The cutaneous contribution to adaptive precision grip'
 authors:
-  - Witney, A.
-  - Wing, A.M.
-  - Thonnard, J.L.
-  - Smith, A.
+  - Alice Witney
+  - Alan Wing
+  - Jean-Louis Thonnard
+  - Allan Smith
 date: '2004-09-01T00:00:00Z'
 doi: '10.1016/j.tins.2004.08.006'
 

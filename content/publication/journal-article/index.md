@@ -2,11 +2,11 @@
 title: 'The cutaneous contribution to adaptive precision grip'
 authors:
   - Witney, A.
-  - Wing, A.M.
-  - Thonnard, J.L.
-  - Smith, A.
-date: '2004-09-01T00:00:00Z'
-doi: '10.1016/j.tins.2004.08.006'
+  - Wing A.M.
+  - Thonnard J.L.
+  - Smith A.
+date: '2015-09-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2004-01-01T00:00:00Z'
@@ -18,19 +18,16 @@ publishDate: '2004-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Trends in Neurosciences,  27, 637-643'
+publication: '*Trends in Neurosciences, * 27, 637-643'
 publication_short: ''
 
-abstract: 'Only after injury, or perhaps prolonged exposure to cold that is sufficient to numb the fingers, do we suddenly appreciate the complex neural mechanisms that underlie our effortless dexterity in manipulating objects. The nervous system is capable of adapting grip forces to a wide range of object shapes, weights and frictional properties, to provide optimal and secure handling in a variety of potentially perturbing environments. The dynamic interplay between sensory information and motor commands provides the basis for this flexibility, and recent studies supply somewhat unexpected evidence of the essential role played by cutaneous feedback in maintaining and acquiring predictive grip force control. These examples also offer new insights into the adaptive control of other voluntary movements.'
-
+abstract: 
 # Summary. An optional shortened abstract.
-
-
 summary: 
 
 
 tags:
-  - 
+  - Source Themes
 featured: false
 
 # links:

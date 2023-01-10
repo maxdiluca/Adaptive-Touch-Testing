@@ -1,9 +1,9 @@
 ---
 title: 'Weighing up the value of touch'
 authors:
-  - Wing, A.M.
-  - Giachristis, C.
-  - Roberts, R.
+  - Alan Wing
+  - Christos Giachristis
+  - Roberta Roberts
 date: '2007-09-01T00:00:00Z'
 doi: ''
 

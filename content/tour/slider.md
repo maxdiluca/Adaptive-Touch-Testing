@@ -7,7 +7,7 @@ headless: true
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   # slide_height: '200px'
-  is_fullscreen: true
+  is_fullscreen: false
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
@@ -19,7 +19,7 @@ content:
       content: 'Touch is important for discriminating surfaces and objects, aesthetic appreciation and guiding action. Touch is affected by skin condition, normal aging, and neurological diseases of the elderly. This project is developing a working prototype and exploring the potential market for an Adaptive tactile test system (ATTS). It is a collaboration between the University of Birmingham (UOB) Sensory Motor Neuroscience (SyMoN) Laboratory and commercial partner Obi Robotics.'
       align: left
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: manipulation1.jpg

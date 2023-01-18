@@ -23,6 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: manipulation1.jpg
+        fit: cover
     - title: Applications
       content: ''In sensory neuroscience, touch is lagging behind the knowledge base that underpins research in vision and audition. However, the technology for delivering touch experiences is advancing rapidly and the Adaptive tactile test system (ATTS) is well positioned to allow researchers to gain important information about user touch abilities across the lifespan for fundamental and translational neuroscience studies of touch in perception and action. In business, touch is widely perceived as a key element of consumer appeal. It is also an area of rapid expansion in the new technology of virtual and augmented reality. ATTS serves as a cornerstone for characterising consumer abilities and the research team will exploit its network of industry contacts to identify application areas.''
       align: left

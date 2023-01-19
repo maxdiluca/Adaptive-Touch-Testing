@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
+  slide_height: '1000px'
   is_fullscreen: true
   # Automatically transition through slides?
   loop: true
@@ -21,7 +21,7 @@ content:
       background:
         position: center
         color: '#666'
-        brightness: 0.7
+        brightness: 0.5
         media: manipulation1.jpg
         fit: cover
     - title: Applications
@@ -30,7 +30,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.5
         media: manipulation2.jpg
     - title: Automated Adaptive Touch Testing (A2T2)
       content: 'Clinical testing of touch typically involves manual application of test stimuli. The Sensory Motor Neuroscience (SyMoN) Lab and Obi Robotics are developing an automated approach based on continuously varying stimulus intensity or frequency for assessing touch discrimination ability. Discrimination difficulty is adjusted adaptively up or down to yield 75% correct performance.'

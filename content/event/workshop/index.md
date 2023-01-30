@@ -70,7 +70,7 @@ projects:
 
 9:00 **Registration**
 
-9.30-11:00 [Talks session A]{.underline} (chair: Tina Jerosch-Herold)
+9.30-11:00 [Talks session A] (chair: Tina Jerosch-Herold)
 
 > *1. Alan Wing: Welcome and overview (5 mins)*
 >
@@ -85,7 +85,7 @@ projects:
 
 **11-11:30 Coffee and posters**
 
-11:30-12:30 [Talks session B]{.underline} (chair: Alan Wing)
+11:30-12:30 [Talks session B] (chair: Alan Wing)
 
 > 6\. Max Di Luca: Touch in virtual reality.
 >
@@ -95,7 +95,7 @@ projects:
 >
 > 9\. Christina Jerosch-Herold: Assessing touch in a clinical setting
 
-12:30-13:00 [1-minute speed talks]{.underline} (chair: Roberta Roberts)
+12:30-13:00 [1-minute speed talks] (chair: Roberta Roberts)
 
 > *10. Posters*
 >
@@ -129,4 +129,4 @@ projects:
 16:00 Closing discussion (panel comprised of clinicians, therapists,
 researchers, patients)
 
-16:30 **Depart**
+17:00 **Depart**

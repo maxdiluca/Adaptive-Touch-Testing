@@ -1,16 +1,16 @@
 ---
-title: Example Event
+title: Touch Assessment Workshop
 
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Hills Building - University of Birmingham
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Edgbaston
+  city: Birmingham
+  region: WM
+  postcode: B15 2TT
+  country: United Kingdom
 
 summary: An example event.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -22,7 +22,7 @@ date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-01-30T00:00:00Z'
 
 authors: []
 tags: []

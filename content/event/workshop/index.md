@@ -8,11 +8,11 @@ location: Room 120 Hills Building - University of Birmingham
 address:
   street: Edgbaston
   city: Birmingham
-  region: WM
+  region: ''
   postcode: B15 2TT
   country: United Kingdom
 
-summary: An example event.
+summary: ''
 abstract: 'On Wednesday 15 March 2023 9:00-17:00 SyMoN (Sensory Motor Neuroscience) Lab is running a Touch Assessment Workshop in the Hills Building at the University of Birmingham. The Hills Building is 5 minutes walk from University train station which is served by 5 trains an hour from New St (journey time 10 minutes).
 The workshop will comprise a series of talks in the morning with lots of opportunity for questions, followed by demos, lab tours and a closing panel discussion in the afternoon. There will also be an opportunity for those attending to present posters. The morning presentations will have a practical focus and will be aimed mainly at therapists and clinicians although we expect that researchers in behavioural science and engineering not familiar with touch measurement methods will also be interested. The charge for the day will be a nominal £30 towards the cost of coffee and a buffet lunch. Numbers will be limited to 50 people.'
 

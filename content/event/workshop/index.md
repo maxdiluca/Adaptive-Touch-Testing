@@ -1,10 +1,10 @@
 ---
 title: Touch Assessment Workshop
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Workshop registration
+event_url: https://shop.bham.ac.uk/conferences-and-events/college-of-life-environmental-sciences/school-of-psychology/psychology-conferences/touch-assessment-workshop-registration
 
-location: Hills Building - University of Birmingham
+location: Room 120 Hills Building - University of Birmingham
 address:
   street: Edgbaston
   city: Birmingham

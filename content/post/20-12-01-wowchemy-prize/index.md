@@ -1,6 +1,6 @@
 ---
-title: Touch Assessment Workshop on Wed 15 March 2022
-date: 2020-12-05
+title: Touch Assessment Workshop on Wed 15 March 2023
+date: 2022-12-05
 ---
 We are organising a Touch Assessment Workshop on Wed 15 March at the University of Birmingham.
 

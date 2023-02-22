@@ -75,7 +75,7 @@ Birmingham**
 
 9:15 Alan Wing: Welcome and overview
 
-9.20-11:00 **[Talks session A]{.underline}** (chair: Tina
+9.20-11:00 **Talks session A** (chair: Tina
 Jerosch-Herold)
 
 > T1. Alan Wing: Discriminative touch: neurophysiology and behaviour 
@@ -91,7 +91,7 @@ Jerosch-Herold)
 
 **11-11:20 Coffee and posters**
 
-11:20-13:00 **[Talks session B]{.underline}** (chair: Alan Wing) 
+11:20-13:00 **Talks session B** (chair: Alan Wing) 
 
 > T6. Max Di Luca: Touch in virtual reality.
 >
@@ -105,7 +105,7 @@ Jerosch-Herold)
 
 **13:00-14:00 Lunch and posters**
 
-14:00-15.30 **[Lab tours with demos]{.underline}**
+14:00-15.30 **Lab tours with demos**
 
 8 stations on a 10 minute rotation 6 people per group
 

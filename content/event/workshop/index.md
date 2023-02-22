@@ -68,65 +68,68 @@ projects:
 
 **DRAFT programme**
 
-9:00 **Registration**
+**Touch Assessment Workshop at SyMoN Lab, Hills Building, University of
+Birmingham**
 
-9.30-11:00 [Talks session A] (chair: Tina Jerosch-Herold)
+9:00 **Registration**
 
-> *1. Alan Wing: Welcome and overview (5 mins)*
->
-> 2\. Alan Wing: Discriminative touch: neurophysiology and behaviour
->
-> 3\. Nick Holmes: Primary somatosensory cortex and brain stimulation
->
-> 4\. Ali Khatibi: Central sensitisation and pain processing in chronic
-> conditions
->
-> 5\. Harriet Allen: Multisensory touch and aging
+9:15 Alan Wing: Welcome and overview
 
-**11-11:30 Coffee and posters**
+9.20-11:00 **[Talks session A]{.underline}** (chair: Tina
+Jerosch-Herold)
 
-11:30-12:30 [Talks session B] (chair: Alan Wing)
+> T1. Alan Wing: Discriminative touch: neurophysiology and behaviour 
+>
+> T2. Nick Holmes: Primary somatosensory cortex and brain stimulation
+>
+> T3. Fiona Newell: Cross-sensory interactions in tactile perception
+>
+> T4. Ali Khatibi: Central sensitisation and pain processing in chronic
+> conditions 
+>
+> T5. Harriet Allen: Multisensory touch and aging
 
-> 6\. Max Di Luca: Touch in virtual reality.
->
-> 7\. Olivier Lambercy: Robot assessment of proprioception
->
-> 8\. Ken Valyear: Measuring touch localisation: A new research tool.
->
-> 9\. Christina Jerosch-Herold: Assessing touch in a clinical setting
+**11-11:20 Coffee and posters**
 
-12:30-13:00 [1-minute speed talks] (chair: Roberta Roberts)
+11:20-13:00 **[Talks session B]{.underline}** (chair: Alan Wing) 
 
-> *10. Posters*
+> T6. Max Di Luca: Touch in virtual reality.
 >
-> *11. Demos*
+> T7. Olivier Lambercy: Robot assessment of proprioception
+>
+> T8. Ken Valyear: Measuring touch localisation: A new research tool.
+>
+> T9. Christina Jerosch-Herold: Assessing touch in a clinical setting
+>
+> T10. Francis McGlone: A tale of two touches
 
 **13:00-14:00 Lunch and posters**
 
-14:00-15.30 Lab tours with demos
+14:00-15.30 **[Lab tours with demos]{.underline}**
 
 8 stations on a 10 minute rotation 6 people per group
 
-> 1\) Becca Hirst Open Science Tools Foyer
+> D1) Becca Hirst Open Science Tools - Foyer
 >
-> 2\) Diar Abdlkarim Obi robotics Symonlab
+> D2) Ali Khatibi Quantitative Sensory Test (QST) - Foyer
 >
-> 3\) Roberta Roberts Adaptive tactile testing system Symonlab
+> D3) Diar Abdlkarim Obi robotics - Symonlab (H324)
 >
-> 4\) Susan Li Mirror box Symonlab
+> D4) Roberta Roberts Adaptive tactile testing system - Symonlab (H324)
 >
-> 5\) Max Di Luca VR Delta Posture and balance lab
+> D5) Susan Li Mirror box - Symonlab (H324)
 >
-> 6\) Olivier Lambercy Robot proprioceptive assessment Posture and
-> balance lab
+> D6) Max Di Luca VR Delta - Posture and balance lab (H229)
 >
-> 7\) Alan Wing Grating roughness, Skin compliance, Kitchen test area
+> D7) Alan Wing Grating roughness, skin compliance - Kitchen test area
+> (H224)
 >
-> 8\) Ali Khatibi Quantitative Sensory Test (QST) Foyer
+> D8) Nick Holmes Grating orientation test - Kitchen seminar room (H224)
 
-**15:30 Tea and posters**
+**15:30-16:00 Tea and posters**
 
-16:00 Closing discussion (panel comprised of clinicians, therapists,
-researchers, patients)
+16:00 **[Closing discussion]{.underline}**
 
-17:00 **Depart**
+> Panel comprised of clinicians, therapists, researchers, patients
+
+17:00 **Depart**

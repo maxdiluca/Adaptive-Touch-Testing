@@ -128,7 +128,7 @@ Jerosch-Herold)
 
 **15:30-16:00 Tea and posters**
 
-16:00 **[Closing discussion]{.underline}**
+16:00 **Closing discussion**
 
 > Panel comprised of clinicians, therapists, researchers, patients
 

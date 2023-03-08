@@ -14,10 +14,14 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Birmingham
   url: ""
 
 interests:
+- Touch 
+- Multisensory Perception 
+- Perception and Action 
+- Aging 
 
 
 education:
@@ -44,3 +48,4 @@ user_groups:
 - Principal Investigators
 
 ---
+Dr Roberts' research focuses on touch perception in the hand. The sense of touch gives information about the shape, temperatures, textures, and materials of our environment. Touching is an active process, involving control of the movements and forces of the hands. Dr Roberts uses behavioural and psychophysical techniques to investigate the interactions between skin mechanics, exploration dynamics and the sense of touch in both young and older adults.  

@@ -87,13 +87,13 @@ Jerosch-Herold)
 > T4. Ali Khatibi: Central sensitisation and pain processing in chronic
 > conditions 
 >
-> T5. Harriet Allen: Multisensory touch and aging
+> T5. Max Di Luca: Touch in virtual reality. 
 
 **11-11:20 Coffee and posters**
 
 11:20-13:00 **Talks session B** (chair: Alan Wing) 
 
-> T6. Max Di Luca: Touch in virtual reality.
+> T6. Harriet Allen: Multisensory touch and aging
 >
 > T7. Olivier Lambercy: Robot assessment of proprioception
 >

@@ -83,12 +83,9 @@ Tues 14 March 12:30-17:30
 
 12:30 Coffee -- bring your own sandwiches
 
-13:15 Overview: Alan Wing followed by ...
+13:15 Overview: Alan Wing followed by participant's introductions
 
-Introductions (5 minutes and 2-slides with background for each person)
-
-14:15 Presentations of illustrative ongoing or completed projects: 10-15
-minutes each with slides
+14:15 Presentations of illustrative ongoing or completed projects
 
 15:00 Break out groups
 

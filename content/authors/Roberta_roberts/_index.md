@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: University of Birmingham
-  url: ""
+  url: 'https://www.birmingham.ac.uk/schools/psychology/research/labs/symon/staff/roberts-roberta.aspx'
 
 interests:
 - Touch 
@@ -26,10 +26,12 @@ interests:
 
 education:
   courses:
-  - course: PhD
-    institution:
-  - course: BSc
-    institution:
+  - course: PhD in Psychology
+    institution: University of Birmingham
+  - course: MSc in Cognitive Science
+    institution: University of Birmingham
+  - course: BSc in Psychology and AI
+    institution: University of Birmingham
 
 
 # Social/Academic Networking

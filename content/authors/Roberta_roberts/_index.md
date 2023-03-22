@@ -15,7 +15,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: University of Birmingham
-  url: 'https://www.birmingham.ac.uk/schools/psychology/research/labs/symon/staff/roberts-roberta.aspx'
+  url: 'https://www.birmingham.ac.uk/staff/profiles/psychology/roberts-roberta.aspx'
 
 interests:
 - Touch 
